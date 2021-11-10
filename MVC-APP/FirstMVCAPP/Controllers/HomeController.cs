@@ -15,7 +15,7 @@ namespace FirstMVCAPP.Controllers
 
         public ActionResult About()
         {
-            ViewBag.Message = "Your application description page.";
+            ViewBag.Message = "My application description page.";
 
             return View();
         }
